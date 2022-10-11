@@ -1,5 +1,3 @@
-README for QuickTime Repository
-
 Copyright: This material is Copyright ©1984 Apple Inc. and is made available only for non-commercial use.
 
 The content is provided “as is” for educational and research purposes only. CHM makes no representations or warranties of any kind.
